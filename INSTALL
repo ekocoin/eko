@@ -1,0 +1,9 @@
+Building EkoCoin
+
+See doc/readme-qt.rst for instructions on building EkoCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EkoCoin.
+
+See doc/build-*.txt for instructions on building ekocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of EkoCoin.
